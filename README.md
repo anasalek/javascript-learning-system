@@ -11,6 +11,8 @@ The system consists of the following agents:
 These agents collaborate to create an interactive and efficient learning experience.
 
 # How to Use
+*Python 3.13*
+
 1. Clone the repository
 
 `git clone git@github.com:anasalek/javascript-learning-system.git`
