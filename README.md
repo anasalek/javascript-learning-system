@@ -13,13 +13,17 @@ These agents collaborate to create an interactive and efficient learning experie
 # How to Use
 1. Clone the repository
 
-`git clone git@github.com:anasalek/javascript-learning-system.git
-cd javascript-learning-system`
+`git clone git@github.com:anasalek/javascript-learning-system.git`
+
+`cd javascript-learning-system`
 
 2. Set up a virtual environment
 
-`python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate`
+`python -m venv venv`
+
+`source venv/bin/activate`
+Or on Windows:
+`venv\Scripts\activate`
 
 3.Install dependencies
 
