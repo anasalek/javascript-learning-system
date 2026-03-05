@@ -123,7 +123,7 @@ function render() {
      // Кнопка редактирования
     const editBtn = document.createElement("button");
     editBtn.className = "chat-edit-btn";
-    editBtn.innerHTML = "🖉";
+    editBtn.innerHTML = "✏️";
     editBtn.title = "Переименовать чат";
 
     const delBtn = document.createElement("button");
