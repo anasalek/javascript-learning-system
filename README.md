@@ -3,7 +3,6 @@ This is a multi-agent system designed to help users learn JavaScript in an inter
 # System Architecture
 
 The system consists of the following agents:
-- **Manager Agent**: Analyzes user requests and delegates tasks to other agents.
 - **Teacher Agent**: Provides explanations, examples, and exercises for learning.
 - **Coder Agent**: Corrects JavaScript code without explanations.
 - **Validator Agent**: Ensures the final output is accurate and error-free.
