@@ -1,12 +1,3 @@
---extra-index-url https://download.pytorch.org/whl/cu128 
-
-torch==2.10.0
-torchvision==0.25.0
-torchaudio==2.10.0
-
-# из PyPI берутся все обычные библиотеки
-# из дополнительного индекса PyTorch берутся только torch, torchvision и torchaudio
-
 accelerate==1.12.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.3
@@ -161,3 +152,12 @@ wrapt==2.0.1
 yarl==1.22.0
 zipp==3.23.0
 zstandard==0.25.0
+
+--extra-index-url https://download.pytorch.org/whl/cu128 
+
+torch==2.10.0
+torchvision==0.25.0
+torchaudio==2.10.0
+
+# из PyPI берутся все обычные библиотеки
+# из дополнительного индекса PyTorch берутся только torch, torchvision и torchaudio
